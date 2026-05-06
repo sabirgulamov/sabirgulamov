@@ -28,3 +28,5 @@ I am always open to collaboration, learning opportunities, and connecting with l
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)
